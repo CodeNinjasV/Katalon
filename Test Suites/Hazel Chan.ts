@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Untitled Test Suite</name>
+   <name>Hazel Chan</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,12 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>5bd84b4c-1959-4f21-a664-a7685f8d9826</testSuiteGuid>
+   <testSuiteGuid>9bc05ea2-3df7-463a-9893-49e198d2b3d9</testSuiteGuid>
    <testCaseLink>
-      <guid>110f61a4-7d1e-4be9-ae5b-bc9c97278a53</guid>
+      <guid>8013eda8-1855-425c-bbbb-95fc712d8b60</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/Untitled Test Suite/hc</testCaseId>
+      <isRun>false</isRun>
+      <testCaseId>Test Cases/Hazel Chan</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>
-    
